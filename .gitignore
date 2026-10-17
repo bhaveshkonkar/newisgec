@@ -1,0 +1,31 @@
+# Secrets / local config
+.env
+.env.local
+.env.*.local
+web/.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+
+# Node / Next.js
+node_modules/
+web/node_modules/
+.next/
+web/.next/
+*.tsbuildinfo
+
+# Runtime data & uploads
+data/uploads/
+data/catalog/
+uploads/
+*.pdf
+
+# Logs
+*.log

@@ -1,0 +1,22 @@
+services:
+  db:
+    image: postgres:16
+    container_name: gearbox-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-gearbox}
+      POSTGRES_USER: ${POSTGRES_USER:-gearbox}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-gearbox}
+    ports:
+      - "5433:5432"
+    volumes:
+      - gearbox-db:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-gearbox} -d ${POSTGRES_DB:-gearbox}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  gearbox-db:

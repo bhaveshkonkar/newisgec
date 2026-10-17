@@ -1,0 +1,1202 @@
+[
+ {
+  "series": "K2",
+  "size": "11",
+  "variant": "H",
+  "weight_kg": 29.0,
+  "oil_l": 1.5,
+  "page": 36
+ },
+ {
+  "series": "K2",
+  "size": "11",
+  "variant": "T",
+  "weight_kg": 25.0,
+  "oil_l": 1.0,
+  "page": 38
+ },
+ {
+  "series": "K2",
+  "size": "13",
+  "variant": "H",
+  "weight_kg": 52.5,
+  "oil_l": 2.5,
+  "page": 36
+ },
+ {
+  "series": "K2",
+  "size": "13",
+  "variant": "T",
+  "weight_kg": 44.0,
+  "oil_l": 2.0,
+  "page": 38
+ },
+ {
+  "series": "K2",
+  "size": "15",
+  "variant": "H",
+  "weight_kg": 95.0,
+  "oil_l": 5.0,
+  "page": 36
+ },
+ {
+  "series": "K2",
+  "size": "15",
+  "variant": "T",
+  "weight_kg": 84.0,
+  "oil_l": 4.0,
+  "page": 38
+ },
+ {
+  "series": "K2",
+  "size": "17",
+  "variant": "H",
+  "weight_kg": 174.0,
+  "oil_l": 8.5,
+  "page": 36
+ },
+ {
+  "series": "K2",
+  "size": "17",
+  "variant": "T",
+  "weight_kg": 152.0,
+  "oil_l": 7.0,
+  "page": 38
+ },
+ {
+  "series": "K2",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 230.0,
+  "oil_l": 14.0,
+  "page": 36
+ },
+ {
+  "series": "K2",
+  "size": "18",
+  "variant": "T",
+  "weight_kg": 200.0,
+  "oil_l": 12.0,
+  "page": 38
+ },
+ {
+  "series": "K2",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 415.0,
+  "oil_l": 24.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "20",
+  "variant": "T",
+  "weight_kg": 330.0,
+  "oil_l": 20.0,
+  "page": 39
+ },
+ {
+  "series": "K2",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 557.0,
+  "oil_l": 35.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "21",
+  "variant": "T",
+  "weight_kg": 460.0,
+  "oil_l": 30.0,
+  "page": 39
+ },
+ {
+  "series": "K2",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 756.0,
+  "oil_l": 48.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "22",
+  "variant": "T",
+  "weight_kg": 620.0,
+  "oil_l": 40.0,
+  "page": 39
+ },
+ {
+  "series": "K2",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 1020.0,
+  "oil_l": 60.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "23",
+  "variant": "T",
+  "weight_kg": 840.0,
+  "oil_l": 50.0,
+  "page": 39
+ },
+ {
+  "series": "K2",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1370.0,
+  "oil_l": 110.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "24",
+  "variant": "T",
+  "weight_kg": 1130.0,
+  "oil_l": 95.0,
+  "page": 39
+ },
+ {
+  "series": "K2",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1855.0,
+  "oil_l": 125.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "25",
+  "variant": "T",
+  "weight_kg": 1500.0,
+  "oil_l": 105.0,
+  "page": 39
+ },
+ {
+  "series": "K2",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 2500.0,
+  "oil_l": 160.0,
+  "page": 37
+ },
+ {
+  "series": "K2",
+  "size": "26",
+  "variant": "T",
+  "weight_kg": 2000.0,
+  "oil_l": 135.0,
+  "page": 39
+ },
+ {
+  "series": "K3",
+  "size": "14",
+  "variant": "H",
+  "weight_kg": 70.0,
+  "oil_l": 3.5,
+  "page": 44
+ },
+ {
+  "series": "K3",
+  "size": "14",
+  "variant": "T",
+  "weight_kg": 65.0,
+  "oil_l": 2.0,
+  "page": 46
+ },
+ {
+  "series": "K3",
+  "size": "15",
+  "variant": "H",
+  "weight_kg": 95.0,
+  "oil_l": 4.5,
+  "page": 44
+ },
+ {
+  "series": "K3",
+  "size": "15",
+  "variant": "T",
+  "weight_kg": 85.0,
+  "oil_l": 3.0,
+  "page": 46
+ },
+ {
+  "series": "K3",
+  "size": "16",
+  "variant": "H",
+  "weight_kg": 130.0,
+  "oil_l": 6.5,
+  "page": 44
+ },
+ {
+  "series": "K3",
+  "size": "16",
+  "variant": "T",
+  "weight_kg": 115.0,
+  "oil_l": 4.0,
+  "page": 46
+ },
+ {
+  "series": "K3",
+  "size": "17",
+  "variant": "H",
+  "weight_kg": 175.0,
+  "oil_l": 9.0,
+  "page": 44
+ },
+ {
+  "series": "K3",
+  "size": "17",
+  "variant": "T",
+  "weight_kg": 150.0,
+  "oil_l": 6.0,
+  "page": 46
+ },
+ {
+  "series": "K3",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 235.0,
+  "oil_l": 13.0,
+  "page": 44
+ },
+ {
+  "series": "K3",
+  "size": "18",
+  "variant": "T",
+  "weight_kg": 205.0,
+  "oil_l": 8.0,
+  "page": 46
+ },
+ {
+  "series": "K3",
+  "size": "19",
+  "variant": "H",
+  "weight_kg": 320.0,
+  "oil_l": 18.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "19",
+  "variant": "T",
+  "weight_kg": 280.0,
+  "oil_l": 12.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 430.0,
+  "oil_l": 26.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "20",
+  "variant": "T",
+  "weight_kg": 370.0,
+  "oil_l": 17.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 580.0,
+  "oil_l": 33.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "21",
+  "variant": "T",
+  "weight_kg": 500.0,
+  "oil_l": 21.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 780.0,
+  "oil_l": 46.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "22",
+  "variant": "T",
+  "weight_kg": 670.0,
+  "oil_l": 28.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 1060.0,
+  "oil_l": 65.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "23",
+  "variant": "T",
+  "weight_kg": 910.0,
+  "oil_l": 40.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1430.0,
+  "oil_l": 90.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "24",
+  "variant": "T",
+  "weight_kg": 1170.0,
+  "oil_l": 55.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1930.0,
+  "oil_l": 125.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "25",
+  "variant": "T",
+  "weight_kg": 1580.0,
+  "oil_l": 80.0,
+  "page": 47
+ },
+ {
+  "series": "K3",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 2590.0,
+  "oil_l": 180.0,
+  "page": 45
+ },
+ {
+  "series": "K3",
+  "size": "26",
+  "variant": "T",
+  "weight_kg": 2070.0,
+  "oil_l": 115.0,
+  "page": 47
+ },
+ {
+  "series": "K4",
+  "size": "17",
+  "variant": "H",
+  "weight_kg": 175.0,
+  "oil_l": 9.0,
+  "page": 54
+ },
+ {
+  "series": "K4",
+  "size": "17",
+  "variant": "T",
+  "weight_kg": 150.0,
+  "oil_l": 6.0,
+  "page": 56
+ },
+ {
+  "series": "K4",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 235.0,
+  "oil_l": 13.0,
+  "page": 54
+ },
+ {
+  "series": "K4",
+  "size": "18",
+  "variant": "T",
+  "weight_kg": 205.0,
+  "oil_l": 8.0,
+  "page": 56
+ },
+ {
+  "series": "K4",
+  "size": "19",
+  "variant": "H",
+  "weight_kg": 320.0,
+  "oil_l": 18.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "19",
+  "variant": "T",
+  "weight_kg": 280.0,
+  "oil_l": 12.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 430.0,
+  "oil_l": 26.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "20",
+  "variant": "T",
+  "weight_kg": 370.0,
+  "oil_l": 17.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 580.0,
+  "oil_l": 33.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "21",
+  "variant": "T",
+  "weight_kg": 500.0,
+  "oil_l": 21.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 780.0,
+  "oil_l": 46.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "22",
+  "variant": "T",
+  "weight_kg": 670.0,
+  "oil_l": 28.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 1060.0,
+  "oil_l": 65.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "23",
+  "variant": "T",
+  "weight_kg": 910.0,
+  "oil_l": 40.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1430.0,
+  "oil_l": 90.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "24",
+  "variant": "T",
+  "weight_kg": 1170.0,
+  "oil_l": 55.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1930.0,
+  "oil_l": 125.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "25",
+  "variant": "T",
+  "weight_kg": 1580.0,
+  "oil_l": 80.0,
+  "page": 57
+ },
+ {
+  "series": "K4",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 2590.0,
+  "oil_l": 180.0,
+  "page": 55
+ },
+ {
+  "series": "K4",
+  "size": "26",
+  "variant": "T",
+  "weight_kg": 2070.0,
+  "oil_l": 115.0,
+  "page": 57
+ },
+ {
+  "series": "S1",
+  "size": "11",
+  "variant": "H",
+  "weight_kg": 35.0,
+  "oil_l": 1.5,
+  "page": 18
+ },
+ {
+  "series": "S1",
+  "size": "13",
+  "variant": "H",
+  "weight_kg": 65.0,
+  "oil_l": 2.5,
+  "page": 18
+ },
+ {
+  "series": "S1",
+  "size": "15",
+  "variant": "H",
+  "weight_kg": 115.0,
+  "oil_l": 5.5,
+  "page": 18
+ },
+ {
+  "series": "S1",
+  "size": "17",
+  "variant": "H",
+  "weight_kg": 205.0,
+  "oil_l": 9.0,
+  "page": 18
+ },
+ {
+  "series": "S1",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 275.0,
+  "oil_l": 15.0,
+  "page": 18
+ },
+ {
+  "series": "S1",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 320.0,
+  "oil_l": 25.0,
+  "page": 19
+ },
+ {
+  "series": "S1",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 415.0,
+  "oil_l": 36.0,
+  "page": 19
+ },
+ {
+  "series": "S1",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 570.0,
+  "oil_l": 50.0,
+  "page": 19
+ },
+ {
+  "series": "S1",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 760.0,
+  "oil_l": 62.0,
+  "page": 19
+ },
+ {
+  "series": "S1",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1025.0,
+  "oil_l": 110.0,
+  "page": 19
+ },
+ {
+  "series": "S1",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1400.0,
+  "oil_l": 125.0,
+  "page": 19
+ },
+ {
+  "series": "S1",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 1900.0,
+  "oil_l": 160.0,
+  "page": 19
+ },
+ {
+  "series": "S2",
+  "size": "14",
+  "variant": "H",
+  "weight_kg": 58.0,
+  "oil_l": 2.0,
+  "page": 20
+ },
+ {
+  "series": "S2",
+  "size": "14",
+  "variant": "T",
+  "weight_kg": 51.0,
+  "oil_l": 1.0,
+  "page": 22
+ },
+ {
+  "series": "S2",
+  "size": "15",
+  "variant": "H",
+  "weight_kg": 78.0,
+  "oil_l": 3.0,
+  "page": 20
+ },
+ {
+  "series": "S2",
+  "size": "15",
+  "variant": "T",
+  "weight_kg": 68.0,
+  "oil_l": 2.0,
+  "page": 22
+ },
+ {
+  "series": "S2",
+  "size": "16",
+  "variant": "H",
+  "weight_kg": 110.0,
+  "oil_l": 4.0,
+  "page": 20
+ },
+ {
+  "series": "S2",
+  "size": "16",
+  "variant": "T",
+  "weight_kg": 96.0,
+  "oil_l": 3.0,
+  "page": 22
+ },
+ {
+  "series": "S2",
+  "size": "17",
+  "variant": "H",
+  "weight_kg": 145.0,
+  "oil_l": 5.0,
+  "page": 20
+ },
+ {
+  "series": "S2",
+  "size": "17",
+  "variant": "T",
+  "weight_kg": 127.0,
+  "oil_l": 4.0,
+  "page": 22
+ },
+ {
+  "series": "S2",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 200.0,
+  "oil_l": 8.0,
+  "page": 20
+ },
+ {
+  "series": "S2",
+  "size": "18",
+  "variant": "T",
+  "weight_kg": 174.0,
+  "oil_l": 5.0,
+  "page": 22
+ },
+ {
+  "series": "S2",
+  "size": "19",
+  "variant": "H",
+  "weight_kg": 270.0,
+  "oil_l": 11.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "19",
+  "variant": "T",
+  "weight_kg": 235.0,
+  "oil_l": 6.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 360.0,
+  "oil_l": 14.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "20",
+  "variant": "T",
+  "weight_kg": 314.0,
+  "oil_l": 8.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 490.0,
+  "oil_l": 21.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "21",
+  "variant": "T",
+  "weight_kg": 428.0,
+  "oil_l": 12.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 675.0,
+  "oil_l": 29.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "22",
+  "variant": "T",
+  "weight_kg": 595.0,
+  "oil_l": 17.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 910.0,
+  "oil_l": 42.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "23",
+  "variant": "T",
+  "weight_kg": 800.0,
+  "oil_l": 24.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1230.0,
+  "oil_l": 60.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "24",
+  "variant": "T",
+  "weight_kg": 1080.0,
+  "oil_l": 35.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1675.0,
+  "oil_l": 85.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "25",
+  "variant": "T",
+  "weight_kg": 1475.0,
+  "oil_l": 50.0,
+  "page": 23
+ },
+ {
+  "series": "S2",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 2260.0,
+  "oil_l": 115.0,
+  "page": 21
+ },
+ {
+  "series": "S2",
+  "size": "26",
+  "variant": "T",
+  "weight_kg": 1990.0,
+  "oil_l": 65.0,
+  "page": 23
+ },
+ {
+  "series": "S3",
+  "size": "15",
+  "variant": "H",
+  "weight_kg": 105.0,
+  "oil_l": 5.0,
+  "page": 26
+ },
+ {
+  "series": "S3",
+  "size": "15",
+  "variant": "T",
+  "weight_kg": 95.0,
+  "oil_l": 3.0,
+  "page": 28
+ },
+ {
+  "series": "S3",
+  "size": "16",
+  "variant": "H",
+  "weight_kg": 120.0,
+  "oil_l": 7.0,
+  "page": 26
+ },
+ {
+  "series": "S3",
+  "size": "16",
+  "variant": "T",
+  "weight_kg": 105.0,
+  "oil_l": 3.0,
+  "page": 28
+ },
+ {
+  "series": "S3",
+  "size": "17",
+  "variant": "H",
+  "weight_kg": 160.0,
+  "oil_l": 8.0,
+  "page": 26
+ },
+ {
+  "series": "S3",
+  "size": "17",
+  "variant": "T",
+  "weight_kg": 141.0,
+  "oil_l": 5.0,
+  "page": 28
+ },
+ {
+  "series": "S3",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 215.0,
+  "oil_l": 10.0,
+  "page": 26
+ },
+ {
+  "series": "S3",
+  "size": "18",
+  "variant": "T",
+  "weight_kg": 188.0,
+  "oil_l": 7.0,
+  "page": 28
+ },
+ {
+  "series": "S3",
+  "size": "19",
+  "variant": "H",
+  "weight_kg": 295.0,
+  "oil_l": 14.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "19",
+  "variant": "T",
+  "weight_kg": 257.0,
+  "oil_l": 9.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 405.0,
+  "oil_l": 22.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "20",
+  "variant": "T",
+  "weight_kg": 345.0,
+  "oil_l": 11.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 540.0,
+  "oil_l": 28.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "21",
+  "variant": "T",
+  "weight_kg": 460.0,
+  "oil_l": 17.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 720.0,
+  "oil_l": 39.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "22",
+  "variant": "T",
+  "weight_kg": 610.0,
+  "oil_l": 23.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 970.0,
+  "oil_l": 56.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "23",
+  "variant": "T",
+  "weight_kg": 820.0,
+  "oil_l": 36.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1300.0,
+  "oil_l": 80.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "24",
+  "variant": "T",
+  "weight_kg": 1100.0,
+  "oil_l": 50.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1770.0,
+  "oil_l": 115.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "25",
+  "variant": "T",
+  "weight_kg": 1520.0,
+  "oil_l": 70.0,
+  "page": 29
+ },
+ {
+  "series": "S3",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 2350.0,
+  "oil_l": 165.0,
+  "page": 27
+ },
+ {
+  "series": "S3",
+  "size": "26",
+  "variant": "T",
+  "weight_kg": 2000.0,
+  "oil_l": 100.0,
+  "page": 29
+ },
+ {
+  "series": "S4",
+  "size": "18",
+  "variant": "H",
+  "weight_kg": 215.0,
+  "oil_l": 13.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "18",
+  "variant": "T",
+  "weight_kg": 190.0,
+  "oil_l": 7.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "19",
+  "variant": "H",
+  "weight_kg": 300.0,
+  "oil_l": 18.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "19",
+  "variant": "T",
+  "weight_kg": 255.0,
+  "oil_l": 9.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "20",
+  "variant": "H",
+  "weight_kg": 405.0,
+  "oil_l": 22.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "20",
+  "variant": "T",
+  "weight_kg": 345.0,
+  "oil_l": 11.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "21",
+  "variant": "H",
+  "weight_kg": 540.0,
+  "oil_l": 28.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "21",
+  "variant": "T",
+  "weight_kg": 460.0,
+  "oil_l": 17.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "22",
+  "variant": "H",
+  "weight_kg": 720.0,
+  "oil_l": 39.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "22",
+  "variant": "T",
+  "weight_kg": 610.0,
+  "oil_l": 23.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "23",
+  "variant": "H",
+  "weight_kg": 970.0,
+  "oil_l": 56.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "23",
+  "variant": "T",
+  "weight_kg": 820.0,
+  "oil_l": 36.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "24",
+  "variant": "H",
+  "weight_kg": 1300.0,
+  "oil_l": 80.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "24",
+  "variant": "T",
+  "weight_kg": 1100.0,
+  "oil_l": 50.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "25",
+  "variant": "H",
+  "weight_kg": 1770.0,
+  "oil_l": 115.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "25",
+  "variant": "T",
+  "weight_kg": 1520.0,
+  "oil_l": 70.0,
+  "page": 33
+ },
+ {
+  "series": "S4",
+  "size": "26",
+  "variant": "H",
+  "weight_kg": 2350.0,
+  "oil_l": 165.0,
+  "page": 32
+ },
+ {
+  "series": "S4",
+  "size": "26",
+  "variant": "T",
+  "weight_kg": 2000.0,
+  "oil_l": 100.0,
+  "page": 33
+ }
+]
